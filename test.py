@@ -8,7 +8,7 @@ SCHOOL = "Nassau Community College"
 students_file = Path("students.txt")
 results_file = Path("results.txt")
 
-BATCH_SIZE = 100
+BATCH_SIZE = 250
 MAX_ATTEMPTS = 3
 
 
