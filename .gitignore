@@ -1,5 +1,6 @@
 # Ignore README.md
 README.md
+.gitignore
 
 # Ignore all .txt files
 *.txt
